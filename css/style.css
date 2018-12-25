@@ -1,0 +1,15 @@
+.logo{
+	width:200px; /* you can use % */
+    height: auto;
+}
+.container {
+    max-width: 950px;
+    margin: auto;
+}
+.Jane{
+	margin-top: 55px;
+}
+hr {
+    height: 3px;
+    background-color: #bcbbbb;
+}
