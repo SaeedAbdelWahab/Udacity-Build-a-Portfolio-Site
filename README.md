@@ -11,5 +11,6 @@ A design mockup as a PDF-file is provided as mockup.pdf, and a replication to th
 # Usage
 
 1- clone this repo using `git clone https://github.com/SaeedAbdelWahab/Udacity-Build-a-Portfolio-Site.git`
+
 2- Open index.html using a suitable browser
 
